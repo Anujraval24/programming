@@ -53,6 +53,7 @@ To do so, first create an issue with the task you are doing, for example: "Issue
   ```sh
   $ git add filename 
   $ git commit -m 'commit message'
+  $ git pull origin branch-name
   $ git push origin branch-name
   ```
 
